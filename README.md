@@ -4,6 +4,7 @@ The intent of this course is to teach Data Science fundamentals to Cybersecurity
 Throughout the course we'll be using ipython notebook. 
 
 *You can download a copy at: http://continuum.io/downloads#py34*
+>If you're not familiar with iPython Notebook please see the [help documentation](http://ipython.org/ipython-doc/dev/notebook/notebook.html)
 
 If you prefer to use Python2.x, feel free, but please note that our challenges and exercises were written for Python3.
 
